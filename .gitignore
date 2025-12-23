@@ -1,0 +1,13 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual Environment (Heavy!)
+venv/
+env/
+.env
+
+# Model files (Optional: If your model is >100MB, GitHub will block it)
+# If your .h5 file is small (under 100MB), you can remove the line below.
+*.h5
+*.keras

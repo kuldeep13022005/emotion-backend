@@ -1,0 +1,17 @@
+# backend heavy----
+# flask
+# flask-cors
+# tensorflow
+# numpy
+# opencv-python
+# Pillow
+# gunicorn
+
+
+flask
+flask-cors
+tensorflow
+numpy
+opencv-python-headless
+Pillow
+gunicorn
